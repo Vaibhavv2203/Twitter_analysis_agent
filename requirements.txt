@@ -1,0 +1,17 @@
+time
+requests
+streamlit
+cv2
+numpy
+selenium
+selenium.webdriver.chrome.service 
+selenium.webdriver.common.by
+selenium.webdriver.common.keys
+selenium.webdriver.support.ui
+selenium.webdriver.support
+webdriver_manager.chrome
+pandas
+bs4
+google.generativeai
+google.generativeai
+deepface
